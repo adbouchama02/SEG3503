@@ -36,11 +36,11 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
  	* I coded grade.ex and modified the file : please check the code under the images code and codeII for this part in the file 
     "grades". 
     
-    ![Code](https://user-images.githubusercontent.com/71564246/177560351-c80a8f32-b83e-4bd4-9f66-1c1c6c82aee0.png)
+   ![Code](https://user-images.githubusercontent.com/71564246/177560351-c80a8f32-b83e-4bd4-9f66-1c1c6c82aee0.png)
     
     
     
-    ![CodeII](https://user-images.githubusercontent.com/71564246/177560427-6c80ddee-24e5-435d-be6e-9b5b00f5c70a.png)
+   ![CodeII](https://user-images.githubusercontent.com/71564246/177560427-6c80ddee-24e5-435d-be6e-9b5b00f5c70a.png)
 
 
  	* Result : please check the image "Grades"
@@ -52,7 +52,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
  	* Random : please check the image "Grades,stub,RANDOM"
   
   
- 	![Grades, stub, RANDOM ](https://user-images.githubusercontent.com/71564246/177560500-756a2ccd-cb01-4971-a3c5-364dc823ccb5.png)
+ ![Grades, stub, RANDOM ](https://user-images.githubusercontent.com/71564246/177560500-756a2ccd-cb01-4971-a3c5-364dc823ccb5.png)
 
 
 
