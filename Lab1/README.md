@@ -33,12 +33,17 @@ be found at [https://hexdocs.pm/newmath_ex](https://hexdocs.pm/newmath_ex).
 
 You should obtain the result "Result1" image linked in file.
 
+![Result1](https://user-images.githubusercontent.com/71564246/177562013-71d6bf04-76b4-41c2-b2c1-b3e0a18d2a34.png)
+
+
 ###Steps for testing NewmathEx.div function
   - Follow the two first steps for **Newmath.div function** above
   - use the following command to compile and invoke the Elixir test code: ```bin/test```
   
 
 You should obtain the result "Result2" image linked in file.
+![Result2](https://user-images.githubusercontent.com/71564246/177562063-6fb71f8b-5231-459b-9c6f-8adbf9e2e521.png)
+
 
 ## Part 2: Run newmath_java
 
@@ -57,13 +62,18 @@ You should obtain the result "Result2" image linked in file.
 
 You should obtain the result "Result3" image linked in file. 
 
+![Result3](https://user-images.githubusercontent.com/71564246/177562100-7993acca-ce65-40b2-858f-a5703d828c08.png)
+
 
 ### Steps for testing Newmath.div function    
   - Follow the first two steps for **invoking Newmath.div function** above
   - use the following command to compile Java test classes: ```javac -encoding UTF-8 --source-path test -d dist -cp lib/junit-platform-console-standalone-1.7.1.jar test/*.java src/*.java```
   -  use the following command to invoke Java test classes: ```java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --scan-class-path```
 
-You should obtain the result "Result4" image linked in file.
+You should obtain the result "Result4" image linked in file
+![Result4](https://user-images.githubusercontent.com/71564246/177562132-7161f3d8-0dca-4d9c-800a-4973532f6806.png)
+
+
 
 
 Thank you for your time. 
